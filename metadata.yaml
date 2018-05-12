@@ -1,0 +1,46 @@
+_repo: A-Christmas-ChildA-Sketch-of-a-Boy-Life_34045
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2010-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34045'
+  lccn: '16019171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Death -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+title: 'A Christmas Child: A Sketch of a Boy-Life'
+url: http://www.gutenberg.org/ebooks/34045
